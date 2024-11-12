@@ -8,7 +8,8 @@ Node.js and npm (for the Angular frontend)
 Angular CLI (install globally with npm install -g @angular/cli)
 
 Clone the Repository:
-git clone https://github.com/MrWareWolf10/SA-Assignment.git
+> git clone https://github.com/MrWareWolf10/SA-Assignment.git
+> Unzip the file
 
 Backend Setup:
 Navigate to the backend directory
